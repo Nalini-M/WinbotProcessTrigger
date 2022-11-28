@@ -1,0 +1,7 @@
+{
+"HostName":"192.168.1.206",
+"Port":"1556",
+"ServiceName":"EBSVIS",
+"User":"WINBOT",
+"DBNetworkAddress":"DB"
+}
